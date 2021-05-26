@@ -1,6 +1,0 @@
-D:\SI\Track 4\Practice\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
-D:\SI\Track 4\Practice\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.AssemblyReference.cache
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.CoreCompileInputs.cache
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb

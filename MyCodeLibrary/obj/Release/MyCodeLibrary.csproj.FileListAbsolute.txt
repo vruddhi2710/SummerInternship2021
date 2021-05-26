@@ -1,5 +1,0 @@
-D:\SI\Track 4\Practice\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
-D:\SI\Track 4\Practice\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
-D:\SI\Track 4\Practice\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb
