@@ -1,7 +1,0 @@
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
-C:\DA\C#HandsOn\Task1\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojAssemblyReference.cache
