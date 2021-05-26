@@ -1,6 +1,0 @@
-D:\SI\Track 4\Practice\Methods\bin\Debug\Methods.exe.config
-D:\SI\Track 4\Practice\Methods\bin\Debug\Methods.exe
-D:\SI\Track 4\Practice\Methods\bin\Debug\Methods.pdb
-D:\SI\Track 4\Practice\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
-D:\SI\Track 4\Practice\Methods\obj\Debug\Methods.exe
-D:\SI\Track 4\Practice\Methods\obj\Debug\Methods.pdb
