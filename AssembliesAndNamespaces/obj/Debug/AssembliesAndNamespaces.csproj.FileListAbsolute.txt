@@ -1,6 +1,0 @@
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
-D:\SI\Track 4\Practice\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb
