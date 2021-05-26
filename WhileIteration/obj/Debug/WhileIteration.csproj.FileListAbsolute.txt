@@ -1,0 +1,6 @@
+C:\DA\C#HandsOn\Task1\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\DA\C#HandsOn\Task1\WhileIteration\bin\Debug\WhileIteration.exe
+C:\DA\C#HandsOn\Task1\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\DA\C#HandsOn\Task1\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task1\WhileIteration\obj\Debug\WhileIteration.exe
+C:\DA\C#HandsOn\Task1\WhileIteration\obj\Debug\WhileIteration.pdb
