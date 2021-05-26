@@ -1,0 +1,7 @@
+C:\DA\C#HandsOn\Task1\Decisions\bin\Debug\Decisions.exe.config
+C:\DA\C#HandsOn\Task1\Decisions\bin\Debug\Decisions.exe
+C:\DA\C#HandsOn\Task1\Decisions\bin\Debug\Decisions.pdb
+C:\DA\C#HandsOn\Task1\Decisions\obj\Debug\Decisions.csprojAssemblyReference.cache
+C:\DA\C#HandsOn\Task1\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task1\Decisions\obj\Debug\Decisions.exe
+C:\DA\C#HandsOn\Task1\Decisions\obj\Debug\Decisions.pdb
