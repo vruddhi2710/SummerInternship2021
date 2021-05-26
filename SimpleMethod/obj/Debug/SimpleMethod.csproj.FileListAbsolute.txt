@@ -1,7 +1,0 @@
-C:\DA\C#HandsOn\Task1\SimpleMethod\bin\Debug\SimpleMethod.exe.config
-C:\DA\C#HandsOn\Task1\SimpleMethod\bin\Debug\SimpleMethod.exe
-C:\DA\C#HandsOn\Task1\SimpleMethod\bin\Debug\SimpleMethod.pdb
-C:\DA\C#HandsOn\Task1\SimpleMethod\obj\Debug\SimpleMethod.csprojAssemblyReference.cache
-C:\DA\C#HandsOn\Task1\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
-C:\DA\C#HandsOn\Task1\SimpleMethod\obj\Debug\SimpleMethod.exe
-C:\DA\C#HandsOn\Task1\SimpleMethod\obj\Debug\SimpleMethod.pdb
