@@ -1,6 +1,0 @@
-C:\DA\C#HandsOn\Task1\Variables\bin\Debug\Variables.exe.config
-C:\DA\C#HandsOn\Task1\Variables\bin\Debug\Variables.exe
-C:\DA\C#HandsOn\Task1\Variables\bin\Debug\Variables.pdb
-C:\DA\C#HandsOn\Task1\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
-C:\DA\C#HandsOn\Task1\Variables\obj\Debug\Variables.exe
-C:\DA\C#HandsOn\Task1\Variables\obj\Debug\Variables.pdb
