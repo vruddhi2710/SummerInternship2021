@@ -1,0 +1,7 @@
+C:\DA\C#HandsOn\Task1\HelperMethod\bin\Debug\HelperMethod.exe.config
+C:\DA\C#HandsOn\Task1\HelperMethod\bin\Debug\HelperMethod.exe
+C:\DA\C#HandsOn\Task1\HelperMethod\bin\Debug\HelperMethod.pdb
+C:\DA\C#HandsOn\Task1\HelperMethod\obj\Debug\HelperMethod.csprojAssemblyReference.cache
+C:\DA\C#HandsOn\Task1\HelperMethod\obj\Debug\HelperMethod.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task1\HelperMethod\obj\Debug\HelperMethod.exe
+C:\DA\C#HandsOn\Task1\HelperMethod\obj\Debug\HelperMethod.pdb
