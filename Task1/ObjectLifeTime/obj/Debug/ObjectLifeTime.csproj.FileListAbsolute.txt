@@ -1,0 +1,7 @@
+D:\SI\Track 4\Practice\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+D:\SI\Track 4\Practice\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+D:\SI\Track 4\Practice\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+D:\SI\Track 4\Practice\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.AssemblyReference.cache
+D:\SI\Track 4\Practice\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+D:\SI\Track 4\Practice\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+D:\SI\Track 4\Practice\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb
