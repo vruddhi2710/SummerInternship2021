@@ -1,7 +1,0 @@
-C:\DA\C#HandsOn\Task1\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
-C:\DA\C#HandsOn\Task1\DatesAndTimes\bin\Debug\DatesAndTimes.exe
-C:\DA\C#HandsOn\Task1\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
-C:\DA\C#HandsOn\Task1\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
-C:\DA\C#HandsOn\Task1\DatesAndTimes\obj\Debug\DatesAndTimes.exe
-C:\DA\C#HandsOn\Task1\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
-C:\DA\C#HandsOn\Task1\DatesAndTimes\obj\Debug\DatesAndTimes.csprojAssemblyReference.cache
