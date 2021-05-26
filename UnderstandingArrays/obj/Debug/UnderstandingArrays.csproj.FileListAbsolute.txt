@@ -1,0 +1,6 @@
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\DA\C#HandsOn\Task1\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
