@@ -1,0 +1,6 @@
+C:\DA\C#HandsOn\Task1\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+C:\DA\C#HandsOn\Task1\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\DA\C#HandsOn\Task1\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\DA\C#HandsOn\Task1\SimpleClasses\obj\Debug\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task1\SimpleClasses\obj\Debug\SimpleClasses.exe
+C:\DA\C#HandsOn\Task1\SimpleClasses\obj\Debug\SimpleClasses.pdb

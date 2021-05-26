@@ -1,0 +1,13 @@
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.exe
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.deps.json
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.runtimeconfig.json
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.runtimeconfig.dev.json
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.dll
+C:\Users\jainil\source\repos\TimerExample\TimerExample\bin\Debug\netcoreapp3.1\TimerExample.pdb
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.AssemblyInfoInputs.cache
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.AssemblyInfo.cs
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.dll
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.pdb
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.genruntimeconfig.cache
+C:\Users\jainil\source\repos\TimerExample\TimerExample\obj\Debug\netcoreapp3.1\TimerExample.csproj.AssemblyReference.cache
