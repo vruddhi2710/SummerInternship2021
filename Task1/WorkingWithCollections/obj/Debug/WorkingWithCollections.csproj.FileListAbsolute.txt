@@ -1,0 +1,7 @@
+D:\SI\Track 4\Practice\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+D:\SI\Track 4\Practice\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+D:\SI\Track 4\Practice\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+D:\SI\Track 4\Practice\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.AssemblyReference.cache
+D:\SI\Track 4\Practice\WorkingWithCollections\obj\Debug\WorkingWithCollections.csproj.CoreCompileInputs.cache
+D:\SI\Track 4\Practice\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+D:\SI\Track 4\Practice\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb
