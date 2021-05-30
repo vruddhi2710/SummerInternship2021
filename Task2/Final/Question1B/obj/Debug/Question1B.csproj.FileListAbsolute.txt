@@ -1,0 +1,6 @@
+C:\DA\C#HandsOn\Task2\Final\Question1B\bin\Debug\Question1B.exe.config
+C:\DA\C#HandsOn\Task2\Final\Question1B\bin\Debug\Question1B.exe
+C:\DA\C#HandsOn\Task2\Final\Question1B\bin\Debug\Question1B.pdb
+C:\DA\C#HandsOn\Task2\Final\Question1B\obj\Debug\Question1B.csproj.CoreCompileInputs.cache
+C:\DA\C#HandsOn\Task2\Final\Question1B\obj\Debug\Question1B.exe
+C:\DA\C#HandsOn\Task2\Final\Question1B\obj\Debug\Question1B.pdb
