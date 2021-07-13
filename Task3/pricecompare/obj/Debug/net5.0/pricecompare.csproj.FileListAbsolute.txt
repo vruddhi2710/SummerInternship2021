@@ -1,0 +1,16 @@
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.exe
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.deps.json
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.runtimeconfig.json
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.runtimeconfig.dev.json
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.dll
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\ref\pricecompare.dll
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\bin\Debug\net5.0\pricecompare.pdb
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.csproj.AssemblyReference.cache
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.GeneratedMSBuildEditorConfig.editorconfig
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.AssemblyInfoInputs.cache
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.AssemblyInfo.cs
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.csproj.CoreCompileInputs.cache
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.dll
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\ref\pricecompare.dll
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.pdb
+E:\InternShip\c#\SI\C_Sharp\PriceComp\pricecompare\obj\Debug\net5.0\pricecompare.genruntimeconfig.cache
