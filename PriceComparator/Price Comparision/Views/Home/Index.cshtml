@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<div class="text-center">
+    <h1 class="display-4 border-1">Price Comparison</h1>
+
+  
+        <table border="1" align="center" cellpadding="10" height="200px" width="1000px">
+            <tr>
+                <th>Item Name</th>
+                <th>Sku Id</th>
+                <th>Own Price</th>
+                <th>Stock</th>
+                <th>Amazon Competitors</th>
+                <th>FlipKart Competitors</th>
+            </tr>
+            @{
+                var data = (Dictionary<string, ProductModel>)ViewData["skuCache"];
+
+
+                foreach (var item in data)
+                {
+                        <tr>
+                            <td>@item.Value.Name</td>
+                            <td>@item.Value.SkuId</td>
+                            <td>@item.Value.OwnPrice</td>
+                            <td>@item.Value.Stock</td>
+
+                            @{
+
+                                if (item.Value.AmazonCompetitors == null)
+                                {
+                                    <td> -- </td>
+                                }
+                                else
+                                {
+                                    <td>
+                                        <table>
+
+                                            @{
+                                                foreach (var comp in item.Value.AmazonCompetitors)
+                                                {
+                                                    <tr>
+                                                        <td>@comp.Key -- @comp.Value </td>
+                                                    </tr>
+                                                }
+                                            }
+
+                                        </table>
+                                    </td>
+
+                                }
+
+                            }
+
+                            @{
+
+                                if (item.Value.FlipkartCompetitors == null)
+                                {
+                                    <td> -- </td>
+                                }
+                                else
+                                {
+                                    <td>
+                                        <table>
+
+                                            @{
+                                                foreach (var comp in item.Value.FlipkartCompetitors)
+                                                {
+                                                    <tr>
+                                                        <td>@comp.Key -- @comp.Value </td>
+                                                    </tr>
+                                                }
+                                            }
+
+                                        </table>
+                                    </td>
+
+                                }
+
+                            }
+                        </tr>
+                }
+            }
+        </table>
+    
+</div>

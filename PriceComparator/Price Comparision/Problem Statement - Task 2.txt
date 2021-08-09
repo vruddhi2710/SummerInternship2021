@@ -1,0 +1,28 @@
+Task 2: Simulate all scenarios that I talked about the Price Comparison tool I showed you. 
+You don't need responses from actual API - this can be simulated by thread sleep for small random seconds per request and send back data. 
+Rest of the scenarios you should be able to enable using asyc/await/Task based programming.
+Your code should do the following:
+
+1. Create a default asp.net web app in VS
+
+2. The sample controller should return array of Product type (Name, SKUID, Stock, OwnPrice, AmazonCompetitors, FlipkartCompetitors). 
+   Each last two are Dictionary<string, int> ie competitor name, price.
+
+3. Create three classes - SAPService, AmazonService, FlipkartService. Each of these will simulate API call to these systems. 
+   Create their public functions as per requirements below.
+
+4. The home controller in serverside code should return list of Products.
+
+5. There is a cahce of SKUs. ie a static dictionary of string, Product. 
+   The lifetime is app level - ie when controllers are called again and again, the cache stays
+
+6. The home controller should see if cache size is zero, if so, it should trigger a task of preparing skucache 
+and return back to client an empty list. The client side can show progress bar etc.
+
+7. The task should first user SAP API to get list of SKUs, then simultaneously - 
+a) use amazon api to get prices of skus
+b) use flipkart api to get prices of skus
+
+8. In each of 7.a & 7.b, first api is called on separate task to filter out invalid skus 
+(because SAP will return list of SKUs that are combination of both amazon & flipkart, some would exist on one and not other). 
+Then the valid list is passed to api in groups of 10 to get data, asynchronously
